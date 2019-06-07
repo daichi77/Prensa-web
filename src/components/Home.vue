@@ -1,7 +1,7 @@
 <template>
   <div id="container">
       <img src="../assets/icon.png" class="icon">
-      <div class="text">おもしろおかしく加工しよう！！</div>
+      <div class="home-text">おもしろおかしく加工しよう！！</div>
       <div class="mail">お問い合わせ: prensaofficial@gmail.com</div>
   </div>
 </template>
@@ -23,7 +23,7 @@ export default {
         width: 350px;
         height: 350px;
     }
-    .text{
+    .home-text{
         margin-top: 40px;
         font-size: 40px;
         font-weight: bold;
@@ -47,7 +47,7 @@ export default {
         width: 300px;
         height: 300px;
     }
-    .text{
+    .home-text{
         margin-top: 40px;
         font-size: 30px;
         font-weight: bold;
@@ -70,7 +70,7 @@ export default {
         width: 200px;
         height: 200px;
     }
-    .text{
+    .home-text{
         margin-top: 40px;
         font-size: 20px;
         font-weight: bold;
