@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "prensa-web",
+    "production": "prensa-web"
+  }
+}
